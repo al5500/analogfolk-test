@@ -1,0 +1,91 @@
+html{
+  
+}
+
+body{
+  background-color: #0dbeb2;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.white-text{
+  color: white;
+  text-align: center;
+}
+
+.form-box{
+  background-color: white;
+  margin-top: 20px;
+}
+
+form{
+  margin: 20px;
+}
+
+.nav-tabs > li{
+  float:none;
+  display:inline-block;
+  zoom:1;
+}
+
+.nav-tabs{
+  text-align:center;
+}
+
+.center{
+  padding: 15px;
+  text-align: center;
+  font-size: 17px;
+}
+
+.center > form{
+  display: inline-block;
+
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  color: #555;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #ddd; 
+}
+
+.tab1{
+ border-left-color: transparent !important;
+ border-top-color: transparent !important; 
+ font-size: 17px;
+}
+
+.tab2{
+ border-right-color: transparent !important; 
+ border-top-color: transparent !important; 
+ font-size: 17px;
+}
+
+input{
+  background-color: #ffefdd !important;
+}
+
+button{
+  background-color: #ff992c !important;
+  color: white !important;
+  text-transform: uppercase;
+  border-color: #ff992c !important;
+}
+
+.link-text-white{
+  color: white;
+  text-decoration: underline;
+}
+
+.link-text-black{
+  color: black;
+  text-decoration: underline;
+}
+
+.input-1{
+  width: 300px !important;
+}
+
+.input-2{
+ width: 600px !important; 
+}
